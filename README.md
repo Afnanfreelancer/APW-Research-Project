@@ -1,7 +1,8 @@
-# APW-Research-Project
-Faculty Grading Practices and Student Perceptions of Fairness
+# APW Reseacrh Project
 
-This repository contains the research project An Analysis of Faculty Grading Practices and Student Perceptions of Fairness at X University. The study explores how faculty design grading criteria, ensure transparency, mitigate biases, and provide feedback, alongside student perceptions of grading fairness.
+## Faculty Grading Practices and Student Perceptions of Fairness
+
+This repository hosts the research project An Analysis of Faculty Grading Practices and Student Perceptions of Fairness at X University. The study explores faculty grading criteria, transparency, bias mitigation, and feedback’s impact on student motivation and fairness perceptions.
 
 Project Overview
 
@@ -9,7 +10,7 @@ Project Overview
 
 
 
-Objective: Analyze faculty grading practices and their impact on student perceptions of fairness using a mixed-methods approach.
+Objective: Analyze faculty grading practices and their impact on student perceptions using a mixed-methods approach.
 
 
 
@@ -19,19 +20,19 @@ Methodology:
 
 
 
-Faculty Interviews: Semi-structured interviews with six faculty members, covering eight questions on grading criteria, communication, challenges, feedback, participation, bias mitigation, grade disputes, and motivation.
+Faculty Interviews: Self-collected semi-structured interviews (written and verbal) with six faculty members, covering eight questions on grading criteria, communication, challenges, feedback, participation, bias mitigation, grade disputes, and motivation.
 
 
 
-Student Surveys: Likert-scale surveys (not included in this repository) to assess student perceptions.
+Student Surveys: Self-collected Likert-scale surveys via Google Forms (not included) to assess student perceptions.
 
 
 
-Data: Anonymized faculty interview responses, cleaned and structured for analysis.
+Data: Anonymized faculty interview responses, cleaned for analysis.
 
 
 
-Tools: Python (Pandas) for data processing and thematic/quantitative analysis.
+Tools: Python (Pandas) for thematic and quantitative analysis.
 
 Repository Structure
 
@@ -39,15 +40,15 @@ Repository Structure
 
 
 
-data/: Contains anonymized faculty response data in CSV format.
+data/: Anonymized faculty response data in CSV format.
 
 
 
-scripts/: Python scripts for data analysis, including question-wise, faculty-wise, and thematic analyses.
+scripts/: Python scripts for question-wise, faculty-wise, and thematic analyses.
 
 
 
-docs/: Project documentation, including methodology and analysis summaries.
+docs/: Project documentation, including methodology and Research_Slide_apw.pdf (presentation slides).
 
 
 
@@ -67,15 +68,35 @@ Transparent communication (e.g., course outlines, early discussions) is standard
 
 
 
-Rubrics and blind marking reduce biases, though some faculty rely on intent over structure.
+Rubrics and blind marking reduce biases; some faculty rely on intent over structure.
 
 
 
-Clear, positive feedback boosts student motivation; negative feedback risks demotivation.
+Clear, positive feedback boosts motivation; negative feedback risks demotivation.
 
 
 
-Participation is often graded, requiring clear rubrics to ensure fairness.
+Participation is graded, requiring rubrics for fairness.
+
+Project Achievements
+
+
+
+
+
+Developed a mixed-methods framework, integrating qualitative and quantitative data.
+
+
+
+Self-collected and analyzed 48 faculty responses, identifying eight themes (e.g., transparency, feedback impact).
+
+
+
+Created reusable Python scripts for educational research.
+
+
+
+Ensured ethical data handling by anonymizing sensitive information.
 
 Usage
 
@@ -85,7 +106,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Afnanfreelancer/APW-Research-Project.git
 
 
 
@@ -95,7 +116,7 @@ pip install pandas
 
 
 
-Run analysis scripts in scripts/ to explore question-wise, faculty-wise, or thematic insights.
+Run analysis scripts in scripts/ for insights.
 
 Ethical Considerations
 
@@ -103,20 +124,22 @@ Ethical Considerations
 
 
 
-All data is anonymized to protect faculty and institutional privacy.
+All data is anonymized to protect privacy.
 
 
 
-No raw student survey data is included to maintain confidentiality.
+No raw student survey data is included.
 
 
 
-The project adheres to ethical research guidelines, ensuring no sensitive information is disclosed.
+The project adheres to ethical research guidelines.
 
 Contributions
 
-This project is for academic purposes and not open for contributions. Feedback or inquiries can be directed to the repository owner.
+For academic purposes only; not open for contributions. Contact the repository owner for inquiries.
 
 License
 
-This project is licensed under the MIT License. See LICENSE for details.
+MIT License. See LICENSE for details.
+
+Word Count: 260
